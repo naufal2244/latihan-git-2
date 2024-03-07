@@ -12,5 +12,7 @@
         <li>Alamat: Politeknik</li>
         <li>NIM: 4342301061</li>
     </ul>
+
+    <h2>makan yuk</h2>
 </body>
 </html>
