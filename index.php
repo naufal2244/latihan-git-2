@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1>Nama saya Naufal</h1>
-    
+    <ul>
+        <li>Umur: 19</li>
+        <li>Alamat: Politeknik</li>
+        <li>NIM: 4342301061</li>
+    </ul>
 </body>
 </html>
